@@ -1,6 +1,6 @@
 ## Responsive Portfolio Website ✨
 
-⚡ **Project Link** - ***https://w17b2.csb.app/*** <br><br>
+⚡ **Portfolio Link** - ***https://kunalsonar007.github.io/My-Portfolio/*** <br><br>
 Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
 Website contains: 
 - Header 
